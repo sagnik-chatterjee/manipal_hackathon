@@ -1,3 +1,3 @@
-#### manipal Hackathon 
-##### Repo for the manipal hackathon 
-##### Please someone give this repo a better description.
+#### Manipal Hackathon 2020
+This repo contains the source code and dependenices  of the software based
+solution used to address the problem statement 'x' of Manipal Hackathon 2020.
